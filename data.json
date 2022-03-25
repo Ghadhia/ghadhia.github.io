@@ -1,61 +1,74 @@
 [{
-  "id": "643",
-  "text": "KEPALA DINAS",
-  "title": "AAA",
+  "id": "00",
+  "text": "Pemegang Saham",
+  "title": "RUPS",
   "width": "350",
   "height": "100",
   "dir": "horizontal",
   "img": "user.jpg"
 }, {
-  "id": "656",
-  "text": "KEPALA BAGIAN A",
-  "title": "BBB",
+  "id": "01",
+  "text": "Komisaris Utama",
+  "title": "Rusli Binnur Wildan",
   "width": "350",
   "height": "100",
   "dir": "vertical",
   "img": "user.jpg"
 }, {
-  "id": "679",
-  "text": "KEPALA BAGIAN B",
-  "title": "CCC",
+  "id": "02",
+  "text": "Komisaris Independen",
+  "title": "Ahmad Zubeir",
   "width": "350",
   "height": "100",
   "dir": "vertical",
   "img": "user.jpg"
 }, {
-  "id": "715",
-  "text": "KEPALA BAGIAN C",
-  "title": "DDD",
+  "id": "03",
+  "text": "Direktur",
+  "title": "Misbahudin",
+  "width": "350",
+  "height": "100",
+  "dir": "horizontal",
+  "img": "user.jpg"
+}, {
+  "id": "04",
+  "text": "SEVP Operations",
+  "title": "Abd Hamid",
   "width": "350",
   "height": "100",
   "dir": "vertical",
   "img": "user.jpg"
 }, {
-  "id": "1477",
-  "text": "KEPALA BAGIAN D",
-  "title": "EEE",
+  "id": "05",
+  "text": "SEVP Business Support",
+  "title": "Dahliana",
   "width": "350",
   "height": "100",
   "dir": "vertical",
   "img": "user.jpg"
-}, {
-  "id": "643-656",
-  "from": "643",
-  "to": "656",
+},{
+  "id": "00-01",
+  "from": "00",
+  "to": "01",
   "type": "line"
 }, {
-  "id": "643-679",
-  "from": "643",
-  "to": "679",
+  "id": "00-02",
+  "from": "00",
+  "to": "02",
   "type": "line"
 }, {
-  "id": "643-715",
-  "from": "643",
-  "to": "715",
+  "id": "01-03",
+  "from": "01",
+  "to": "03",
   "type": "line"
 }, {
-  "id": "643-1477",
-  "from": "643",
-  "to": "1477",
+  "id": "03-04",
+  "from": "03",
+  "to": "04",
+  "type": "line"
+},{
+  "id": "03-05",
+  "from": "03",
+  "to": "05",
   "type": "line"
 }]
